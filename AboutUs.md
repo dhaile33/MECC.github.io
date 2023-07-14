@@ -1,5 +1,6 @@
+
 ---
-layout: Page
+layout: page
 title: "About"
 ---
 
