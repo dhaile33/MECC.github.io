@@ -21,8 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dhaile@hawk.iit.edu"}
-  - {title: Github, icon: github, url: "https://github.com/dhaile33"}
   - {title: Youtube, icon: youtube, url: "https://www.youtube.com/@maranathachurchchicago"}
+  - {title: Facebook, icon: facebook, url: "https://www.facebook.com/yesuskrstos.goitaeyu"}
+   
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
