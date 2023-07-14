@@ -1,4 +1,3 @@
-
 ---
 layout: defualt
 title: "About Us"
